@@ -5,7 +5,7 @@
 # Node
 
 [![⭐ GitHub](https://img.shields.io/github/stars/LyricalString/Node-Discord-Bot.svg?style=social&label=Stars&style=flat)](https://github.com/LyricalString/Node-Discord-Bot/stargazers) 
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=LyricalString_probando&metric=ncloc)](https://sonarcloud.io/dashboard?id=LyricalString_probando)
+[![Blog](https://ikrlegidoplus.com)
 [![](https://img.shields.io/badge/discord.js-v13.12.0-blue.svg?logo=npm)](https://github.com/discordjs)
 [![DevServer](https://discordapp.com/api/guilds/834440041010561074/widget.png?style=shield)](https://discord.gg/SbsFVV5dNG)
 [![](https://img.shields.io/github/languages/top/LyricalString/Node-Discord-Bot)]()
